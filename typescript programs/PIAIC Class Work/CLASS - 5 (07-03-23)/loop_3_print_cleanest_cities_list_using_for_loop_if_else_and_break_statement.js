@@ -9,6 +9,6 @@ for (var i = 0; i < cleanestCities.length; i++) {
         break;
     }
     else {
-        console.log("not in the list");
+        console.log("Not in the list");
     }
 }

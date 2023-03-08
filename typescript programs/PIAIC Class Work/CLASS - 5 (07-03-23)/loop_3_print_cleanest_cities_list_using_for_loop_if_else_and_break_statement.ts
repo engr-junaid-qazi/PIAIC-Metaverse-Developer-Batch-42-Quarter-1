@@ -15,6 +15,6 @@ if("Islamabad" === cleanestCities[i]){
     break;
 }
     else{
-        console.log("not in the list");
+        console.log("Not in the list");
     }
 }
