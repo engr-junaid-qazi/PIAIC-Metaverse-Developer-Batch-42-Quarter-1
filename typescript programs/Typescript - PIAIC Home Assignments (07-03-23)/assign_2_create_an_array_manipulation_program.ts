@@ -19,7 +19,7 @@ console.log(str);
 /* Prepend a string to the beginning of the array */
 
 str.unshift("grapes");
-console.log("Prepend String at the beginning of given Array using string's unshift() method: ",str);
+console.log("Prepend or insert new String \"grapes\" at the beginning of given Array using string's unshift() method: ",str);
 
 /* Remove a string from a specific index in the array and replace it with 
 another string */
