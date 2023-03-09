@@ -1,3 +1,6 @@
+/* Initialize Array for Multiple Variables / Values for Single Data Type */
+
+
 let fruit1 = "apple";
 let fruit2 = "banana"; 
 let fruit3 = "grapes";
